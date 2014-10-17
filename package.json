@@ -1,0 +1,9 @@
+{
+  "name": "hello-world",
+  "devDependencies": {
+    "jest-cli": "~0.1.18"
+  },
+  "scripts": {
+    "test": "jest"
+  }
+}
